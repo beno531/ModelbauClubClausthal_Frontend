@@ -1,3 +1,3 @@
 # ModelbauClubClausthal
 
-Pwered by Strapi and Gatsby
+Powered by Strapi and Gatsby
