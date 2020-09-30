@@ -1,0 +1,76 @@
+.custom-navheader{
+    margin: 0px;
+    font-weight: bold;
+    color: #00c853;
+}
+
+.custom-nav-bg{
+    background-image: url("../images/fine.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 100%;
+}
+
+.custom-posts-bg{
+    background-color: #F5F5F5 !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.custom-events-bg{
+    background-image: url("https://www.wallpaperflare.com/static/698/85/214/pzl-mielec-m-18-dromader-cc-pzj-agricultural-plane-airplane-wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.custom-vorstand-bg{
+    background-color: #F5F5F5;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.custom-anfahrt-bg{
+    background-color: #cfd8dc;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.custom-nav ul li a{
+    color: #424242 !important;
+}
+
+.custom-nav ul li a:hover{
+    color: #bdbdbd !important;
+}
+
+.custom-avatar{
+    height: 300px; 
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+
+.custom-footer-bg{
+    background-color: #4e4c4c;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.custom-video-banner{
+    border-radius: 0px 0px 24px 24px;
+    padding:20px;
+    background-color: #00c853;
+    color: white;
+    font-weight: bolder;
+}
+
+.custom-header-btn{
+    border-radius: 7px;
+    border-color: #00c853;
+    color: #00c853;
+    font-weight: bold;
+}
