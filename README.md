@@ -1,4 +1,4 @@
-# MBC - Clausthal Zellerfeld - Frontend
+# MBC - Clausthal Zellerfeld //- FRONTEND
 Website for Modellbauclub Clasuthal Zellerfeld
 ## Technologies
 + Angular
