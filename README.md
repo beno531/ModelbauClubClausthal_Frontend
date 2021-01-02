@@ -19,3 +19,6 @@ Run the  backend:
 
     yarn install
 	yarn develop
+
+
+MIT License
