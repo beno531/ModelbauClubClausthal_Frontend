@@ -12,4 +12,4 @@ Website for Modellbauclub Clasuthal Zellerfeld
 ## Getting started
 
     npm install
-	  npm run develop
+    npm run develop
